@@ -1,6 +1,6 @@
 # PLUS_softwaredev_2025_emeseg
 ---
-### This repository is for of the Practice: Software Development (Python) course at PLUS.
+This repository is for of the Practice: Software Development (Python) course at PLUS.
 
 ## A2 - Recreating conda environments
 ---
