@@ -1,14 +1,17 @@
 # PLUS_softwaredev_2025_emeseg
+---
+### This repository is for of the Practice: Software Development (Python) course at PLUS.
 
-This repository is for of the Practice: Software Development (Python) course at PLUS.
+## A2 - Recreating conda environments
+---
 
-A2 - Recreating conda environments
+**Created with Anaconda Powershell Prompt**
 
-Created with Anaconda Powershell Prompt
+---
 
 1. Cloning the files from : https://github.com/augustinh22/geo-software-dev
 
-   <img width="863" alt="1" src="https://github.com/user-attachments/assets/a23d72e6-4421-44b2-b66f-3f0d1d266fd1" />
+<img width="863" alt="1" src="https://github.com/user-attachments/assets/a23d72e6-4421-44b2-b66f-3f0d1d266fd1" />
 
 2. Recreated the first environment, no errors, activated the environment and then deactivated it
 <img width="857" alt="2" src="https://github.com/user-attachments/assets/f03a53d2-d6a7-41aa-958b-c4908522d374" />
