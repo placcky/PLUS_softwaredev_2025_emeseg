@@ -12,12 +12,14 @@ This repository is for of the Practice: Software Development (Python) course at 
 1. Cloning the files from : https://github.com/augustinh22/geo-software-dev
 
 <img width="863" alt="1" src="https://github.com/user-attachments/assets/a23d72e6-4421-44b2-b66f-3f0d1d266fd1" />
+
 ---
 
 2. Recreated the first environment, no errors, activated the environment and then deactivated it
 <img width="857" alt="2" src="https://github.com/user-attachments/assets/f03a53d2-d6a7-41aa-958b-c4908522d374" />
 <img width="671" alt="3" src="https://github.com/user-attachments/assets/b18fc2d1-8fa4-4f52-9953-348df6ed3def" />
 <img width="503" alt="deativate" src="https://github.com/user-attachments/assets/9ce054df-eed4-481f-ba3a-87d71c300cb9" />
+
 ---
 
 3. Recreated the second environment, no errors, activated the environment and then deactivated it
