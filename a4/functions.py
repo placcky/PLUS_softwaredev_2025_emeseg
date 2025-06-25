@@ -80,9 +80,9 @@ def read_gpx_file(filepath):
     return pd.DataFrame(data)
 
 #Folder
-script_dir = os.path.dirname(__file__)  # Az aktuális fájl helye
+script_dir = os.path.dirname(__file__)  
 gpx_folder = os.path.join(script_dir, "..", "a3", "gpx")
-gpx_folder = os.path.abspath(gpx_folder)  # Abszolúttá alakítás
+gpx_folder = os.path.abspath(gpx_folder)  
 
 if not os.path.exists(gpx_folder):
     print(f"Directory not found: {gpx_folder}")
